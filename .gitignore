@@ -1,0 +1,10 @@
+syntax: glob
+Library
+Temp
+Web
+Build
+*.pidb
+*.sln
+*.userprefs
+*.csprog
+*.orig
