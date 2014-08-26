@@ -18,5 +18,11 @@ public class Menu : MonoBehaviour {
 		if(GUILayout.Button("Demo3")){
 			Application.LoadLevel(2);
 		}
+		if(GUILayout.Button("Demo4")){
+			Application.LoadLevel(3);
+		}
+		if(GUILayout.Button("Demo5")){
+			Application.LoadLevel(4);
+		}
 	}
 }
