@@ -5,4 +5,4 @@ Mechanim based minimal preloaders for use in your game or for a learning exercis
 
 <a href="http://grimmdev.github.io/UnityPreloaders/">Preview</a>
 
-:100:
+:octocat:
